@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamundaClient", "CamundaClient\CamundaClient.csproj", "{80F315DC-FA81-46A5-8FFB-9847ED908F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamundaClientDemo", "CamundaClientDemo\CamundaClientDemo.csproj", "{514065E8-7BCD-44A7-8B1A-5FAD0F9677AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F315DC-FA81-46A5-8FFB-9847ED908F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F315DC-FA81-46A5-8FFB-9847ED908F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F315DC-FA81-46A5-8FFB-9847ED908F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F315DC-FA81-46A5-8FFB-9847ED908F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514065E8-7BCD-44A7-8B1A-5FAD0F9677AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514065E8-7BCD-44A7-8B1A-5FAD0F9677AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514065E8-7BCD-44A7-8B1A-5FAD0F9677AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514065E8-7BCD-44A7-8B1A-5FAD0F9677AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
